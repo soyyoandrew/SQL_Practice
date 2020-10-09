@@ -1,2 +1,2 @@
 SELECT *
-FROM core_user
+FROM core_tag 
